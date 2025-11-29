@@ -12,7 +12,3 @@ This repository contains a collection of Power BI dashboards focusing on [descri
 **Data Visualizations**
 
 Apart from Power BI, I also include other data visualizations created using [mention other tools or platforms if applicable, e.g., Tableau, Python's Matplotlib/Seaborn, etc.]. These visualizations aim to [briefly describe the purpose or objectives of these visualizations].
-
-**Contributions and Feedback**
-
-I welcome contributions, suggestions, or feedback on any of the projects! If you have ideas for improvement, found issues, or wish to collaborate.
